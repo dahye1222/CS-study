@@ -11,7 +11,7 @@ CS 공부를 위한 자료 정리 github: https://github.com/cs-study-play/cs-st
 | 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖 | [https://gyoogle.dev/blog/](https://gyoogle.dev/blog/) |
 | 팔만코딩경 | [https://80000coding.oopy.io/](https://80000coding.oopy.io/) |
 
-### CS에 어떤 과목이 있는지?
+## CS에 어떤 과목이 있는지?
 
 → CS 6대 과목이라고 불리는 것
 
@@ -45,7 +45,7 @@ CS 공부를 위한 자료 정리 github: https://github.com/cs-study-play/cs-st
     싸피에서 하는것부터 잘 따라갈 예정
     
 
-### 원하는 직무
+## 원하는 직무
 
 → 금융 및 공기업 전산/IT 직렬 희망중 아직까지 어떤 개발을 하고싶다! 라는건 정하지 못해 아직은 추상적이긴 함 
 
@@ -53,9 +53,9 @@ CS 공부를 위한 자료 정리 github: https://github.com/cs-study-play/cs-st
 
 → 이쪽은 코딩테스트가 서비스 기업들에 비해서는 난이도가 엄청 힘들지는 않다고 들어서 우선은 지금 하고 있는 싸피 과정 잘 따라가기 및 CS 공부와 자격증 취득 예정
 
-### 원하는 기업
+## 원하는 기업
 
-코스콤
+### 코스콤
 
 - ICT - 수행 직무 :
 
@@ -66,7 +66,7 @@ CS 공부를 위한 자료 정리 github: https://github.com/cs-study-play/cs-st
 프로그램 언어(JAVA) 및 개발 툴 활용 능력, 요구사항 분석 및 설계 능력, 프로그램 코드 검토 능력, 프로그램 운영 기술, 프로그램 간 데이터 흐름 이해
 능력, DB를 이용한 프로그램 개발 능력(SQL, Stored Procedure, 트리거 등) ⦁시스템 프로젝트 관리 기술
 
-농협은행
+### 농협은행
 
 - IT - 수행직무
 
@@ -78,13 +78,13 @@ CS 공부를 위한 자료 정리 github: https://github.com/cs-study-play/cs-st
 
 ㆍ정보보안(보안 침해사고 분석 및 대응) 등
 
-조폐공사
+### 조폐공사
 
 - 필요 기술
 
 컴퓨터 프로그래밍 언어(JAVA)로 내/외부 경영정보시스템에 대한 운영 및 기능개선을 위한 설계, 구현 및 테스트 수행, 사용자 배포 및 버전관리 등
 
-한전 KDN
+### 한전 KDN
 
 - 필요 기술
 
