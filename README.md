@@ -2,7 +2,6 @@
 
 # CS 공부 목표
 
-생성일: 2025년 2월 3일 오후 3:02
 CS 공부를 위한 자료 정리 github: https://github.com/cs-study-play/cs-study/blob/main/Information/cs_information.md
 
 ## 참고하면 좋은 링크 모음
